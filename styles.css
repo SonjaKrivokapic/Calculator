@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.calculator .other-row > button {
+    width: 70px;
+    height: 75px;
+}
+
+.first-row {
+    display: flex;
+    
+}
+
+ .screen {
+    width: 220px;
+    height: 77px;
+    border: 1px solid black;
+
+}
+
+button {
+    width: 70px;
+    height: 75px;
+    
+    
+}
