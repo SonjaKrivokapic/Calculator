@@ -21,12 +21,28 @@ body{
     width: 220px;
     height: 77px;
     border: 1px solid black;
+    margin: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
 
 }
 
 button {
     width: 70px;
     height: 75px;
+    padding:0px;
+    margin: 2px;
     
     
 }
+
+#previous {
+    font-size: 20px;
+}
+
+#current {
+    font-size: 30px;
+}
+
